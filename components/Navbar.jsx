@@ -44,18 +44,31 @@ const Navbar = () => {
         <div>
           <ul className="hidden md:flex">
             <Link href="/">
-              <li className=" ml-10 text-sm uppercase hover:border-b">Accueil</li>
+              <li className=" ml-10 text-sm uppercase hover:border-b">
+                Accueil
+              </li>
             </Link>
-            <Link href="/">
-              <li className=" ml-10 text-sm uppercase hover:border-b">À propos</li>
+            <Link href="/#about">
+              <li className=" ml-10 text-sm uppercase hover:border-b">
+                À propos
+              </li>
             </Link>
-            <Link href="/">
-              <li className=" ml-10 text-sm uppercase hover:border-b">Dîplomes/Certifications</li>
+            <Link href="/#diplome">
+              <li className=" ml-10 text-sm uppercase hover:border-b">
+                Dîplomes/Certifications
+              </li>
             </Link>
-            <Link href="/">
-              <li className=" ml-10 text-sm uppercase hover:border-b">Projets</li>
+            <Link href="/#project">
+              <li className=" ml-10 text-sm uppercase hover:border-b">
+                Projets
+              </li>
             </Link>
-            <Link href="/">
+            <Link href="/#veille">
+              <li className=" ml-10 text-sm uppercase hover:border-b">
+                Veille
+              </li>
+            </Link>
+            <Link href="/#contact">
               <li className=" ml-10 text-sm uppercase hover:border-b">
                 Contact
               </li>
@@ -75,7 +88,7 @@ const Navbar = () => {
         <div
           className={
             nav
-              ? "fixed left-0 top-0 w-[75%] sm:w-[60%] md:w-[45%] h-screen bg-[#ecf0f3] p-10 ease-in duration-300"
+              ? "fixed left-0 top-0 w-[80%] sm:w-[60%] md:w-[45%] h-screen bg-[#ecf0f3] p-10 ease-in duration-300"
               : "fixed left-[-100%] top-0 p-10 ease-in duration-500"
           }
         >
