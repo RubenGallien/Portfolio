@@ -2,11 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  images: {
-    domains: [
-      'https://rubengallien.vercel.app/'
-    ]
-  }
+  
 }
 
 module.exports = nextConfig
