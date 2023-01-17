@@ -28,7 +28,7 @@ const Contact = () => {
                 <h2 className=" py-2">Ruben Gallien</h2>
                 <p>Etudiant BTS SIO</p>
                 <p className=" py-4">
-                  N'hesitez pas à m'envoyer un message, je vous attends !
+                  N&apos;hesitez pas à m&apos;envoyer un message, je vous attends !
                 </p>
               </div>
               <div>
