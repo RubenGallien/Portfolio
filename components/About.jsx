@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import rubenImg from "../public/assets/portrait.png";
+import Link from "next/link";
 
 const About = () => {
   return (
@@ -19,7 +20,10 @@ const About = () => {
             
           </p>
           <p className=" py-2 text-gray-600 underline cursor-pointer">
-            <a href="/#project">Vous pouvez regardez mes réalisations professionnelles ici</a><br />
+            <Link href="/#project" scroll={false}>
+              Vous pouvez regardez mes réalisations professionnelles ici
+            </Link>
+            <br />
             <a href="/assets/cv.pdf" download>Ou télécharger mon cv en format pdf ici</a>
           </p>
         </div>

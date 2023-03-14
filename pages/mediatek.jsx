@@ -78,7 +78,7 @@ function mediatek() {
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a href="/assets/projects/mediatek/compterendu.pdf" target="_blank">
+            <a href="/assets/projects/mediatek/compterendu.pdf" target="_blank" rel='noreferrer'>
               Compte rendu (PDF)
             </a>
           </p>
@@ -90,7 +90,7 @@ function mediatek() {
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a href="https://github.com/RubenGallien/mediatekformation" target="_blank">
+            <a href="https://github.com/RubenGallien/mediatekformation" target="_blank" rel='noreferrer'>
               Dépot distant (Github)
             </a>
           </p>
@@ -102,19 +102,19 @@ function mediatek() {
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a href="https://mg.n0c.com/" target="_blank">
+            <a href="https://mg.n0c.com/" target="_blank" rel='noreferrer'>
               BDD en ligne (PlanetHoster)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a href="https://mediatekformations.go.yj.fr/doc" target="_blank">
+            <a href="https://mediatekformations.go.yj.fr/doc" target="_blank" rel='noreferrer'>
               Documentation technique (PlanetHoster)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a href="https://www.youtube.com/watch?v=MHpvj56XvlI" target="_blank">
+            <a href="https://www.youtube.com/watch?v=MHpvj56XvlI" target="_blank" rel='noreferrer'>
               Documentation utilisateur (lien youtube)
             </a>
           </p>
