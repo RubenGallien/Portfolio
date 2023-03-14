@@ -4,6 +4,7 @@ import React from "react";
 import portfolioImg from "../public/assets/projects/portfolio.png";
 import ProjectItem from "./ProjectItem";
 import horizonImg from "../public/assets/projects/horizon.png";
+import mediatekImg from "../public/assets/projects/mediatek.png";
 
 const Projects = () => {
   return (
@@ -15,17 +16,20 @@ const Projects = () => {
         <h2 className="py-4">Ce que j&apos;ai réalisé</h2>
         <div className=" grid md:grid-cols-2 gap-8">
           <ProjectItem
-            title="Portfolio SIO"
-            backgroundImg={portfolioImg}
-            projectUrl="/portfolio"
-            techno="NextJS & Tailwind"
-          />
-          <ProjectItem
             title="Alerte horizon"
             backgroundImg={horizonImg}
-            projectUrl="/portfolio"
+            projectUrl="/horizon"
             techno="Symfony & bootstrap"
+            categorie="Stages"
           />
+                  <ProjectItem
+              title="Mediatek Formations"
+              backgroundImg={mediatekImg}
+              projectUrl="/mediatek"
+            techno="Symfony / Twig"
+            categorie="Epreuve E5"
+          />
+          
         </div>
       </div>
     </div>
