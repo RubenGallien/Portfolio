@@ -1,5 +1,7 @@
 import Image from "next/image";
 import React from "react";
+import pixImg from "../public/assets/skills/pix.png";
+import graduateImg from "../public/assets/skills/graduation.png";
 
 const Skills = () => {
   return (
@@ -14,7 +16,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className=" m-auto">
                 <Image
-                  src="/../public/assets/skills/graduation.png"
+                  src={graduateImg}
                   width="64px"
                   height="64px"
                   alt="/"
@@ -30,7 +32,7 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center">
               <div className=" m-auto">
                 <Image
-                  src="/../public/assets/skills/pix.png"
+                  src={pixImg}
                   width="64px"
                   height="64px"
                   alt="/"
