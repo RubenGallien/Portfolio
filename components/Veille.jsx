@@ -23,7 +23,7 @@ const Skills = () => {
             </p>
           <p className="py-2 text-gray-600">Vous pouvez consultez la frise chronologique de certains de mes recherche
             <Link href="/ai">
-             <a className=" no-underline hover:underline" href="/ai"> ici</a>
+             <a className=" no-underline hover:underline"> ici</a>
             </Link>
           </p>
         </div>
