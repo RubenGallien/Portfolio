@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import portfolioImg from "../public/assets/projects/portfolio.png";
 import ProjectItem from "./ProjectItem";
 import horizonImg from "../public/assets/projects/horizon.png";
 import mediatekImg from "../public/assets/projects/mediatek.png";
+import GrisbiImg from "../public/assets/projects/grisbi.png";
 
 const Projects = () => {
   return (
@@ -22,14 +22,21 @@ const Projects = () => {
             techno="Symfony & bootstrap"
             categorie="Stages"
           />
-                  <ProjectItem
-              title="Mediatek Formations"
-              backgroundImg={mediatekImg}
-              projectUrl="/mediatek"
+          <ProjectItem
+            title="Mediatek Formations"
+            backgroundImg={mediatekImg}
+            projectUrl="/mediatek"
             techno="Symfony / Twig"
             categorie="Epreuve E5"
           />
-          
+          <ProjectItem
+            title="Grisbi Api"
+            backgroundImg={GrisbiImg}
+            projectUrl="/grisbi"
+            techno="C# / React"
+            categorie="Stages"
+          />
+
         </div>
       </div>
     </div>

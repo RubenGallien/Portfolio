@@ -16,7 +16,10 @@ const Navbar = () => {
 
   useEffect(() => {
     if (
-      router.asPath === '/mediatek'
+      router.asPath === '/mediatek' ||
+      router.asPath === '/ai' ||
+      router.asPath === '/grisbi' ||
+      router.asPath === '/horizon'
     ) {
       setNavBg('transparent')
       setLinkColor('#ecf0f3')
@@ -88,11 +91,6 @@ const Navbar = () => {
                 Dîplomes/Certifications
               </li>
             </Link>
-            <Link href="/#contact" scroll={false}>
-              <li className=" ml-10 text-sm uppercase hover:border-b">
-                Contact
-              </li>
-            </Link>
           </ul>
           <div onClick={handleNav} className="md:hidden">
             <AiOutlineMenu size={25} />
@@ -152,13 +150,10 @@ const Navbar = () => {
               <Link href="/#veille" scroll={false}>
                 <li onClick={ ()=> setNav(false) } className=" py-4 text-sm">Veille informationnelle</li>
               </Link>
-              <Link href="/#contact" scroll={false}>
-                <li className=" py-4 text-sm">Contact</li>
-              </Link>
             </ul>
             <div className=" pt-40">
               <p className=" uppercase tracking-widest">Contactez-moi</p>
-              <div className=" flex items-center justify-between  w-full sm:w-[80%]">
+              <div className=" flex space-x-6  w-full sm:w-[80%]">
                 <div className=" rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
                 <a href="https://www.linkedin.com/in/ruben-gallien-74695618a"><FaLinkedinIn /></a>
                 </div>

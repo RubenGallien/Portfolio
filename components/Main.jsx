@@ -18,11 +18,11 @@ const Main = () => {
             Apprenti développeur en BTS SIO Option SLAM
           </h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            Je suis un éléve de BTS SIO, ésperant devenir un jour un grand
-            developpeur. Vous découvrirez sur ce site, mon portfolio et mon
-            parcours d&apos;apprentissage!
+            Elève en BTS SIO, j&apos;éspère devenir un jour un 
+            developpeur confirmé 😄 . Vous découvrirez sur ce site, mon
+            parcours d&apos;apprentissage et mes réalisations professionnelles.
           </p>
-          <div className=" flex items-center justify-between max-w-[300px] m-auto py-4">
+          <div className=" flex items-center space-x-10 justify-center max-w-[300px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
               <a href="https://www.linkedin.com/in/ruben-gallien-74695618a"><FaLinkedinIn /></a>
             </div>
