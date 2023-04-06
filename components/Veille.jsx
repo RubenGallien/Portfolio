@@ -2,6 +2,7 @@
 import Image from "next/image";
 import React from "react";
 import gptImg from "../public/assets/veille/gpt.png"
+import Link from "next/link";
 
 const Skills = () => {
   return (
@@ -18,11 +19,13 @@ const Skills = () => {
             En effet, GPT-3 était sorti depuis un an, et c&apos;est d&apos;ailleurs ce qui à donner naissance à mon envie de faire du développement informatique pour apprendre à réaliser des outils de ce type
             </p>
             <p className=" py-2 text-gray-600">
-              Pour m&apos;informer "plus sérieusement" aux nouveautés informatique qui nous entoure (en particulier les intelligences artificielles), j&apos;ai utiliser un agrégateur de flux RSS (Netvibes) en supplément des recherches internet classiques via le navigateur et les outils de précisions de recherches
+              Pour m&apos;informer &quot;plus sérieusement&quot; aux nouveautés informatique qui nous entoure (en particulier les intelligences artificielles), j&apos;ai utiliser un agrégateur de flux RSS (Netvibes) en supplément des recherches internet classiques via le navigateur et les outils de précisions de recherches
             </p>
           <p className="py-2 text-gray-600">Vous pouvez consultez la frise chronologique de certains de mes recherche
-          <a className=" no-underline hover:underline" href="/ai"> ici</a>
-            </p>
+            <Link href="/ai">
+             <a className=" no-underline hover:underline" href="/ai"> ici</a>
+            </Link>
+          </p>
         </div>
         {
         /* Ajouter une photo de moi*/
