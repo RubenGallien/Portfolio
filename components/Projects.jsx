@@ -36,6 +36,13 @@ const Projects = () => {
             techno="C# / React"
             categorie="Stages"
           />
+                    <ProjectItem
+            title="Grisbi Api"
+            backgroundImg={GrisbiImg}
+            projectUrl="/grisbi"
+            techno="C# / React"
+            categorie="Stages"
+          />
 
         </div>
       </div>

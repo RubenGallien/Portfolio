@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar";
 import Projects from "../components/Projects";
 import Diplome from "../components/Diplome";
 import Veille from "../components/Veille";
+import E4 from "../components/E4";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Main />
       <About />
       <Projects />
+      <E4/>
       <Veille />
       <Diplome />
     </div>
