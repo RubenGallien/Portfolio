@@ -3,7 +3,6 @@ import Link from "next/link";
 import React from "react";
 import ProjectItem from "./ProjectItem";
 import horizonImg from "../public/assets/projects/horizon.png";
-import mediatekDocImg from "../public/assets/projects/mediatekdocuments.png";
 import mediatekImg from "../public/assets/projects/mediatek.png";
 import GrisbiImg from "../public/assets/projects/grisbi.png";
 
@@ -39,7 +38,7 @@ const Projects = () => {
           />
             <ProjectItem
             title="Mediatek Documents"
-            backgroundImg={mediatekDocImg}
+            backgroundImg={mediatekImg}
             projectUrl="/mediatekDoc"
             techno="C# / PHP "
             categorie="Epreuve E5"
