@@ -4,6 +4,7 @@ import mediatekDocImg from "../public/assets/projects/MediatekDocuments.png";
 
 function mediatekDoc() {
 
+    
     return (
         <div className=' w-full'>
             <div className=' w-screen h-[30vh] lg:h-[40vh] relative'>
