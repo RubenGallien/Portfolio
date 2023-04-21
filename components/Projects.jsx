@@ -2,8 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import mediatekDocImg from "../public/assets/projects/mediatekdocuments.png";
 import horizonImg from "../public/assets/projects/horizon.png";
+import mediatekDocImg from "../public/assets/projects/mediatekdocuments.png";
 import mediatekImg from "../public/assets/projects/mediatek.png";
 import GrisbiImg from "../public/assets/projects/grisbi.png";
 
