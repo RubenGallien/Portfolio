@@ -19,7 +19,8 @@ const Navbar = () => {
       router.asPath === '/mediatek' ||
       router.asPath === '/ai' ||
       router.asPath === '/grisbi' ||
-      router.asPath === '/horizon'
+      router.asPath === '/horizon' ||
+      router.asPath === '/mediatekDoc'
     ) {
       setNavBg('transparent')
       setLinkColor('#ecf0f3')
