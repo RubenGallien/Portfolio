@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react'
-import mediatekDocImg from "../public/assets/projects/MediatekDocuments.png"
+import mediatekDocImg from "../public/assets/projects/MediatekDocuments.png";
 
 function mediatekDoc() {
 
