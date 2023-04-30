@@ -5,6 +5,8 @@ import ProjectItem from "./ProjectItem";
 import horizonImg from "../public/assets/projects/horizon.png";
 import mediatekImg from "../public/assets/projects/mediatek.png";
 import GrisbiImg from "../public/assets/projects/grisbi.png";
+import mediatekdocImg from "../public/assets/projects/mediatekdoc.png";
+
 
 const Projects = () => {
   return (
@@ -38,7 +40,7 @@ const Projects = () => {
           />
             <ProjectItem
             title="Mediatek Documents"
-            backgroundImg={mediatekImg}
+            backgroundImg={mediatekdocImg}
             projectUrl="/mediatekDoc"
             techno="C# / PHP "
             categorie="Epreuve E5"

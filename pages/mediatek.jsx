@@ -1,7 +1,7 @@
 import React from 'react'
 import mediatekImg from "../public/assets/projects/mediatek.png";
 import Image from "next/image";
-import { RiRadioButtonFill, RiRadioButtonLine } from "react-icons/ri"
+import { RiRadioButtonFill } from "react-icons/ri"
 import { AiOutlineArrowRight } from "react-icons/ai"
 import Link from 'next/link';
 
@@ -20,18 +20,21 @@ function mediatek() {
 
       <div className=' max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8'>
         <div className=' col-span-4'>
-          <p>Projet</p>
-          <h2>Présentation</h2>
+          <h2 className='text-[#5651e5]'>Présentation :</h2>
+          <br />
           <p>
             Notre projet avait pour objectif de créer un site permettant d&apos;accéder à des vidéos d&apos;autoformations. Pour cela, nous avons utilisé le framework Symfony ainsi que le moteur de templates Twig, tous deux écrits en PHP.
             Nous avons également intégré une base de données MySQL pour stocker les informations relatives aux vidéos et aux utilisateurs. <br />
-            Le développement de la partie front-office a été confiée à un autre développeur. Le front permet d’accéder à l’accueil du site, de consulter les formations, les playlists. On peut également accéder à une formation ou playlist particulière. Les CGU sont également visionnables. <br />
+            Le développement de la partie front-office a été confiée à un autre développeur. Le front permet d’accéder à l’accueil du site, de consulter les formations, les playlists. On peut également accéder à une formation ou playlist particulière. Les CGU sont également visionnables.
+          </p>
+          <br />
+          <p>
             L&apos;objectif est de faire évoluer l&apos;application web Synfomy existante, notamment en corrigeant certains manquement bonnes pratiques de codage, puis en ajoutant une partie back-office et la finalisation et déploiement du site.
           </p>
         </div>
         <div className=' col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
           <div className=' p-2'>
-            <p className=' text-center font-bold pb-2'>Technologies</p>
+            <p className=' text-center font-bold pb-2 text-[#5651e5]'>Technologies</p>
             <div>
               <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' />Symfony
@@ -122,7 +125,7 @@ function mediatek() {
         <div className=' col-span-4 md:col-span-3 shadow-xl shadow-gray-400 rounded-xl p-4'>
           <p className=' text-center font-bold pb-2'>Liste des compétences</p>
           <div>
-          <p className='text-gray-600 py-2 flex items-center'>
+            <p className='text-gray-600 py-2 flex items-center'>
               <RiRadioButtonFill className='pr-1' />B1.1 : Gérer le patrimoine informatique
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
