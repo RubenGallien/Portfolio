@@ -20,12 +20,12 @@ function mediatek() {
 
       <div className=' max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8'>
         <div className=' col-span-4'>
-          <h2 className='text-[#5651e5]'>Présentation :</h2>
+          <h2 className='text-[#5651e5]'>Présentation</h2>
           <br />
           <p>
             Notre projet avait pour objectif de créer un site permettant d&apos;accéder à des vidéos d&apos;autoformations. Pour cela, nous avons utilisé le framework Symfony ainsi que le moteur de templates Twig, tous deux écrits en PHP.
             Nous avons également intégré une base de données MySQL pour stocker les informations relatives aux vidéos et aux utilisateurs. <br />
-            Le développement de la partie front-office a été confiée à un autre développeur. Le front permet d’accéder à l’accueil du site, de consulter les formations, les playlists. On peut également accéder à une formation ou playlist particulière. Les CGU sont également visionnables.
+            Le développement de la partie front-office a été confiée à un autre développeur. Le front permet d’accéder à l&apos;accueil du site, de consulter les formations, les playlists. On peut également accéder à une formation ou playlist particulière. Les CGU sont également visionnables.
           </p>
           <br />
           <p>

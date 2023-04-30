@@ -23,7 +23,7 @@ function mediatekDoc() {
           <br />
           <p>
             MediaTek86 est un réseau qui gère les médiathèques de la Vienne, et qui a pour rôle de fédérer les prêts de livres, DVD et CD et de développer la médiathèque numérique pour l&apos;ensemble des médiathèques du département.
-            Afin de gérer le catalogue et les commandes de documents, MediaTek86 a confié un projet de développement d'une application de gestion à la société InfoTechServices 86.
+            Afin de gérer le catalogue et les commandes de documents, MediaTek86 a confié un projet de développement d&apos;une application de gestion à la société InfoTechServices 86.
           </p>
           <br />
           <p>
@@ -104,7 +104,7 @@ function mediatekDoc() {
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
             <a href='/assets/projects/mediatekdoc/MediatekDocumentsInstalleur.msi.zip'>
-              Installeur de l'application C# (.msi)
+              Installeur de l&apos;application C# (.msi)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
