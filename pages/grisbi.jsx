@@ -25,17 +25,17 @@ function grisbi() {
           <h2 className='text-[#5651e5]'>Présentation</h2>
           <br />
           <p>
-            Lors de mon stage chez Bouygues Immobilier, j'ai intégré une équipe de plusieurs développeurs de la branche Finance et RH de l'entreprise.
-            Ces développeurs s'occupent de la conception et du support de plusieurs applications web, bureau et outils.
+            Lors de mon stage chez Bouygues Immobilier, j&apos;ai intégré une équipe de plusieurs développeurs de la branche Finance et RH de l&apos;entreprise.
+            Ces développeurs s&apos;occupent de la conception et du support de plusieurs applications web, bureau et outils.
           </p>
           <br />
           <p>
-            Mes objectifs étaient : L'évolution d'une application/service en arrière plan sur le poste des salariés qui devait s'activer en fonction de la charge de son ordinateur afin de faire des économies d'énergie.
-            Et également la création d'une API REST (web) en React pour pouvoir faciliter la gestion d'une base de données "trésorerie-comptabilité".
+            Mes objectifs étaient : L&apos;évolution d'une application/service en arrière plan sur le poste des salariés qui devait s&apos;activer en fonction de la charge de son ordinateur afin de faire des économies d'énergie.
+            Et également la création d&apos;une API REST (web) en React pour pouvoir faciliter la gestion d'une base de données "trésorerie-comptabilité".
           </p>
           <br />
           <p>
-            L'API devait permettre d'obtenir la liste des utilisateurs du service et leurs rôles (afin d'ajouter ou supprimer des utilisateurs et modifier leurs rôles) et permettre le paramétrage de certaines données.      
+            L'API devait permettre d&apos;obtenir la liste des utilisateurs du service et leurs rôles (afin d&apos;ajouter ou supprimer des utilisateurs et modifier leurs rôles) et permettre le paramétrage de certaines données.      
           </p>
         </div>
 
@@ -66,10 +66,10 @@ function grisbi() {
                 <div className=' col-span-6 shadow-gray-600 p-4'>
           <p className=' text-center font-bold pb-2'>Quelques photos</p>
           <div>
-            <Image width={500} height={500} src={postTest} />
-            <Image width={200} height={400} src={architectReact} />
-            <Image width={500} height={400} src={reacpage} />
-            <Image width={600} height={300} src={swagger}/>
+            <Image width={500} height={500} src={postTest} alt='/' />
+            <Image width={200} height={400} src={architectReact} alt='/' />
+            <Image width={500} height={400} src={reacpage} alt='/' />
+            <Image width={600} height={300} src={swagger} alt='/'/>
           </div>
         </div>
       </div>
