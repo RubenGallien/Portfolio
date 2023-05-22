@@ -30,7 +30,7 @@ function grisbi() {
           </p>
           <br />
           <p>
-            Mes objectifs étaient : L&apos;évolution d&apos;une application/service en arrière plan sur le poste des salariés qui devait s&apos;activer en fonction de la charge de son ordinateur afin de faire des économies d'énergie.
+            Mes objectifs étaient : L&apos;évolution d&apos;une application/service en arrière plan sur le poste des salariés qui devait s&apos;activer en fonction de la charge de son ordinateur afin de faire des économies d&apos;énergie.
             Et également la création d&apos;une API REST (web) en React pour pouvoir faciliter la gestion d&apos;une base de données &quot;trésorerie-comptabilité&quot;.
           </p>
           <br />

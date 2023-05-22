@@ -110,7 +110,7 @@ function mediatekDoc() {
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
             <a href='https://mediatekdocuments.online/rest_mediatekdocuments/'>
-              API en ligne (le mode opératoire pour l'utiliser est dans le README du dépot distant de l'API)
+              API en ligne (le mode opératoire pour l&apos;utiliser est dans le README du dépot distant de l&apos;API)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
