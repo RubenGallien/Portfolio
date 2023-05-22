@@ -35,7 +35,7 @@ function horizon() {
           <br />
           <p>
             Ma principale mission a été de créer et d&apos;afficher un(e) alerte/message sur ce site, pour les utilisateurs d&apos;un navigateur autre que Mozilla Firefox. 
-            En effet, sur certaines pages, des Iframes ne sont pas visibles à cause d'un "bug" causé par les navigateurs. Le changement de navigateur ne devait pas être une obligation, simplement un conseil.
+            En effet, sur certaines pages, des Iframes ne sont pas visibles à cause d&apos;un &quot;bug&quot; causé par les navigateurs. Le changement de navigateur ne devait pas être une obligation, simplement un conseil.
           </p>
         </div>
 

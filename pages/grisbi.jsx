@@ -30,12 +30,12 @@ function grisbi() {
           </p>
           <br />
           <p>
-            Mes objectifs étaient : L&apos;évolution d'une application/service en arrière plan sur le poste des salariés qui devait s&apos;activer en fonction de la charge de son ordinateur afin de faire des économies d'énergie.
-            Et également la création d&apos;une API REST (web) en React pour pouvoir faciliter la gestion d'une base de données "trésorerie-comptabilité".
+            Mes objectifs étaient : L&apos;évolution d&apos;une application/service en arrière plan sur le poste des salariés qui devait s&apos;activer en fonction de la charge de son ordinateur afin de faire des économies d'énergie.
+            Et également la création d&apos;une API REST (web) en React pour pouvoir faciliter la gestion d&apos;une base de données &quot;trésorerie-comptabilité&quot;.
           </p>
           <br />
           <p>
-            L'API devait permettre d&apos;obtenir la liste des utilisateurs du service et leurs rôles (afin d&apos;ajouter ou supprimer des utilisateurs et modifier leurs rôles) et permettre le paramétrage de certaines données.      
+            L&apos;API devait permettre d&apos;obtenir la liste des utilisateurs du service et leurs rôles (afin d&apos;ajouter ou supprimer des utilisateurs et modifier leurs rôles) et permettre le paramétrage de certaines données.      
           </p>
         </div>
 

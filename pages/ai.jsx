@@ -36,7 +36,7 @@ function ai() {
               <h1 className="mx-auto text-white font-semibold text-lg">2</h1>
             </div>
             <div className="order-1 bg-[#5651e5] rounded-lg shadow-xl w-5/12 px-6 py-4">
-              <h3 className="mb-3 font-bold text-white text-xl">Elon Musk reverait d'une IA pour Twitter</h3>
+              <h3 className="mb-3 font-bold text-white text-xl">Elon Musk reverait d&apos;une IA pour Twitter</h3>
               <p className="text-sm font-medium leading-snug tracking-wide text-white text-opacity-100"> 12/04/2023 - <a href="https://www.lepoint.fr/high-tech-internet/elon-musk-reve-d-une-intelligence-artificielle-pour-twitter-12-04-2023-2515918_47.php">https://www.lepoint.fr/high-tech-internet/elon-musk-reve-d-une-intelligence-artificielle-pour-twitter-12-04-2023-2515918_47.php</a></p>
             </div>
           </div>
@@ -83,7 +83,7 @@ function ai() {
               <h1 className="mx-auto text-white font-semibold text-lg">6</h1>
             </div>
             <div className="order-1 bg-[#5651e5] rounded-lg shadow-xl w-5/12 px-6 py-4">
-              <h3 className="mb-3 font-bold text-white text-xl">Le rôle de l'IA est sur le point de changer monumentalement en 2022 et au-delà</h3>
+              <h3 className="mb-3 font-bold text-white text-xl">Le rôle de l&apos;IA est sur le point de changer monumentalement en 2022 et au-delà</h3>
               <p className="text-sm font-medium leading-snug tracking-wide text-white text-opacity-100">19/05/2022 - <a href="https://techcrunch.com/2022/05/19/ais-role-is-poised-to-change-monumentally-in-2022-and-beyond/">https://techcrunch.com/2022/05/19/ais-role-is-poised-to-change-monumentally-in-2022-and-beyond/</a></p>
             </div>
           </div>
@@ -94,7 +94,7 @@ function ai() {
               <h1 className="mx-auto font-semibold text-lg text-white">7</h1>
             </div>
             <div className="order-1 bg-[#c5c3ff] rounded-lg shadow-xl w-5/12 px-6 py-4">
-              <h3 className="mb-3 font-bold text-gray-800 text-xl">GPT-3: Moteur de la nouvelle génération d'applications</h3>
+              <h3 className="mb-3 font-bold text-gray-800 text-xl">GPT-3: Moteur de la nouvelle génération d&apos;applications</h3>
               <p className="text-sm leading-snug tracking-wide text-gray-900 text-opacity-100">21/03/2021 - <a href="https://openai.com/blog/gpt-3-apps">https://openai.com/blog/gpt-3-apps</a></p>
             </div>
           </div>
@@ -106,7 +106,7 @@ function ai() {
               <h1 className="mx-auto text-white font-semibold text-lg">8</h1>
             </div>
             <div className="order-1 bg-[#5651e5] rounded-lg shadow-xl w-5/12 px-6 py-4">
-              <h3 className="mb-3 font-bold text-white text-xl">Qu’est-ce que l’intelligence artificielle ?</h3>
+              <h3 className="mb-3 font-bold text-white text-xl">Qu’est-ce que l&apos;intelligence artificielle ?</h3>
               <p className="text-sm font-medium leading-snug tracking-wide text-white text-opacity-100">11/07/2021 - <a href="https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/qu-est-ce-que-l-intelligence-artificielle_137648">https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/qu-est-ce-que-l-intelligence-artificielle_137648</a></p>
             </div>
           </div>
