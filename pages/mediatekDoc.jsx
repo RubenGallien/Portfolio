@@ -80,7 +80,7 @@ function mediatekDoc() {
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
             <a>
-              Compte rendu (PDF)
+              Compte rendu (En cours)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
@@ -104,7 +104,13 @@ function mediatekDoc() {
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
             <a href='/assets/projects/mediatekdoc/MediatekDocumentsInstalleur.msi.zip'>
-              Installeur de l&apos;application C# (.msi)
+              Installeur de l&apos;application C# (.msi) (Double clic sur "MediatekDocumentsInstalleur puis "informations complémentaires" puis suivant à chaque fois et fermer)
+            </a>
+          </p>
+          <p className='text-gray-600 py-2 flex'>
+            <AiOutlineArrowRight className='pr-1' />
+            <a href='https://mediatekdocuments.online/rest_mediatekdocuments/'>
+              API en ligne (le mode opératoire pour l'utiliser est dans le README du dépot distant de l'API)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
@@ -128,9 +134,6 @@ function mediatekDoc() {
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
               <RiRadioButtonFill className='pr-1' />B1.2 : Répondres aux incidents et aux demandes d&apos;assistance et d&apos;évolution
-            </p>
-            <p className='text-gray-600 py-2 flex items-center'>
-              <RiRadioButtonFill className='pr-1' />B1.3 : Développer la présence en ligne de l&apos;organisation
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
               <RiRadioButtonFill className='pr-1' />B1.4 : Travailler en mode projet

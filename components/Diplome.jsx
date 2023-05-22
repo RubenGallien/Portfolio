@@ -23,7 +23,7 @@ const Skills = () => {
                 />
               </div>
               <div className=" flex flex-col items-center justify-center">
-                <h3><a href="/assets/skills/attestation_bac.pdf" target="_blank">Baccalauréat Economique et sociale - 2018 (lien)</a></h3>
+                <h3><a href="/assets/skills/attestation_bac.pdf" target="_blank">Baccalauréat Économique et social - 2018 (lien)</a></h3>
                 <p>Lycée Jules Ferry / Conflans Sainte Honorine</p>
               </div>
             </div>

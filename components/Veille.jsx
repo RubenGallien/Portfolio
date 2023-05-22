@@ -14,14 +14,11 @@ const Skills = () => {
           </p>
           <h2 className=" py-4">Les intelligences artificelles</h2>
           <div className=" grid md:grid-cols-2 lg:grid-cols-4 gap-8"></div>
-          <p className=" py-2 text-gray-600">J&apos;ai commencé en septembre 2021 à m&apos;informer plus sérieusement des nouveautés technologiques, notamment en ce qui concerne les intelligence artificielles</p>
-            <p className="  py-2 text-gray-600">
-            En effet, GPT-3 était sorti depuis un an, et c&apos;est d&apos;ailleurs ce qui à donner naissance à mon envie de faire du développement informatique pour apprendre à réaliser des outils de ce type
-            </p>
+          <p className=" py-2 text-gray-600">J&apos;ai commencé en septembre 2021 à m&apos;informer plus sérieusement sur les nouveautés technologiques, notamment en ce qui concerne les intelligences artificielles.</p>
             <p className=" py-2 text-gray-600">
-              Pour m&apos;informer &quot;plus sérieusement&quot; aux nouveautés informatique qui nous entoure (en particulier les intelligences artificielles), j&apos;ai utiliser un agrégateur de flux RSS (Netvibes) en supplément des recherches internet classiques via le navigateur et les outils de précisions de recherches
+              Pour cela, j&apos;ai utilisé un agrégateur de flux RSS (Netvibes) en supplément des recherches internet classiques via le navigateur et les outils de précisions de recherches
             </p>
-          <p className="py-2 text-gray-600">Vous pouvez consultez la frise chronologique de certains de mes recherche
+          <p className="py-2 text-gray-600">Vous pouvez consulter la frise chronologique de certaines de mes recherches
             <Link href="/ai">
              <a className=" no-underline hover:underline"> ici</a>
             </Link>

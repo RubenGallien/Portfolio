@@ -23,13 +23,13 @@ function mediatek() {
           <h2 className='text-[#5651e5]'>Présentation</h2>
           <br />
           <p>
-            Notre projet avait pour objectif de créer un site permettant d&apos;accéder à des vidéos d&apos;autoformations. Pour cela, nous avons utilisé le framework Symfony ainsi que le moteur de templates Twig, tous deux écrits en PHP.
+            Notre projet a pour objectif de créer un site permettant d&apos;accéder à des vidéos d&apos;autoformation. Pour cela, nous avons utilisé le framework Symfony ainsi que le moteur de templates Twig, tous deux écrits en PHP.
             Nous avons également intégré une base de données MySQL pour stocker les informations relatives aux vidéos et aux utilisateurs. <br />
-            Le développement de la partie front-office a été confiée à un autre développeur. Le front permet d’accéder à l&apos;accueil du site, de consulter les formations, les playlists. On peut également accéder à une formation ou playlist particulière. Les CGU sont également visionnables.
+            Le développement de la partie front-office a été confié à un autre développeur. Le front permet d’accéder à l&apos;accueil du site, de consulter les formations et les playlists. On peut également accéder à une formation ou playlist particulière. Les CGU sont visionnables.
           </p>
           <br />
           <p>
-            L&apos;objectif est de faire évoluer l&apos;application web Synfomy existante, notamment en corrigeant certains manquement bonnes pratiques de codage, puis en ajoutant une partie back-office et la finalisation et déploiement du site.
+            L&apos;objectif est de faire évoluer l&apos;application web Synfomy existante, notamment en corrigeant certains manquements aux bonnes pratiques de codage, puis en ajoutant une partie back-office et le déploiement du site.
           </p>
         </div>
         <div className=' col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
@@ -129,7 +129,7 @@ function mediatek() {
               <RiRadioButtonFill className='pr-1' />B1.1 : Gérer le patrimoine informatique
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
-              <RiRadioButtonFill className='pr-1' />B1.2 : Répondres aux incidents et aux demandes d&apos;assistance et d&apos;évolution
+              <RiRadioButtonFill className='pr-1' />B1.2 : Répondre aux incidents et aux demandes d&apos;assistance et d&apos;évolution
             </p>
             <p className='text-gray-600 py-2 flex items-center'>
               <RiRadioButtonFill className='pr-1' />B1.3 : Développer la présence en ligne de l&apos;organisation
