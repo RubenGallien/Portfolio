@@ -79,8 +79,8 @@ function mediatekDoc() {
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a>
-              Compte rendu (En cours)
+            <a href='/assets/projects/mediatekdoc/crmediatekdoc.pdf' target='_blank'>
+              Compte rendu (PDF)
             </a>
           </p>
           <p className='text-gray-600 py-2 flex'>
