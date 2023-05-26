@@ -28,13 +28,13 @@ function horizon() {
           </p>
           <br />
           <p>
-            J&apos;ai principalement travaillé sur le site Horizon. 
-            Ce dernier est une application métier web destinés aux collaborateurs du GREA permettant d&apos;analyser les objectifs et résultats de plusieurs indicateurs de performance (activités de GRDF). 
+            J&apos;ai principalement travaillé sur le site Horizon.
+            Ce dernier est une application métier web destinés aux collaborateurs du GREA permettant d&apos;analyser les objectifs et résultats de plusieurs indicateurs de performance (activités de GRDF).
             Le site est développé en Symfony 4.4 et utilise PHP 7.2
           </p>
           <br />
           <p>
-            Ma principale mission a été de créer et d&apos;afficher un(e) alerte/message sur ce site, pour les utilisateurs d&apos;un navigateur autre que Mozilla Firefox. 
+            Ma principale mission a été de créer et d&apos;afficher un(e) alerte/message sur ce site, pour les utilisateurs d&apos;un navigateur autre que Mozilla Firefox.
             En effet, sur certaines pages, des Iframes ne sont pas visibles à cause d&apos;un &quot;bug&quot; causé par les navigateurs. Le changement de navigateur ne devait pas être une obligation, simplement un conseil.
           </p>
         </div>
@@ -80,7 +80,7 @@ function horizon() {
           <p className=' text-center font-bold pb-2'>Quelques photos</p>
           <div>
             <Image width={500} height={300} src={alertImg} alt='/' />
-            <Image width={500} height={300} src={horizonSiteImg} alt='/'/>
+            <Image width={500} height={300} src={horizonSiteImg} alt='/' />
           </div>
         </div>
       </div>
