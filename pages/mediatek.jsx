@@ -20,7 +20,7 @@ function mediatek() {
 
       <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
         <strong class="font-bold">Précision : </strong>
-        <span class="block sm:inline">L&apos;accès à la partie admin via keycloak se faisant via une VM azure, pour éviter des coûts trop important, je l&apos;activerais 1 semaine avant l'épreuve, je vous remercie d&apos;avance pour votre compréhension </span>
+        <span class="block sm:inline">L&apos;accès à la partie admin via keycloak se faisant via une VM azure, pour éviter des coûts trop important, je l&apos;activerais 1 semaine avant l&apos;épreuve, je vous remercie d&apos;avance pour votre compréhension </span>
         <span class="absolute top-0 bottom-0 right-0 px-4 py-3">
         </span>
       </div>
