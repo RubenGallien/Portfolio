@@ -17,10 +17,10 @@ function mediatek() {
           <h3>Symfony / Bootstrap / MySQL</h3>
         </div>
       </div>
-      
+
       <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
         <strong class="font-bold">Précision : </strong>
-        <span class="block sm:inline">Je suis vraiment désolé, mais je rencontre des grosses difficultés avec le site azure et la création de VM car j&apos;ai une nouvelle fois des frais trop importants, je fais tout mon possible pour agir au plus vite</span>
+        <span class="block sm:inline">Je suis vraiment désolé, mais je rencontre des grosses difficultés avec le site azure et la création de VM (et donc keycloak et la partie /admin) car j&apos;ai une nouvelle fois des frais trop importants, je fais tout mon possible pour agir au plus vite</span>
         <span class="absolute top-0 bottom-0 right-0 px-4 py-3">
         </span>
       </div>
