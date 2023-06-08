@@ -18,7 +18,7 @@ function mediatek() {
         </div>
       </div>
 
-      <div class="bg-red-100 border border-red-400 text-green-500 px-4 py-3 rounded relative" role="alert">
+      <div class=" bg-green-300 border border-green-500 text-green-600 px-4 py-3 rounded relative" role="alert">
         <strong class="font-bold">ENFIN : </strong>
         <span class="block sm:inline">Bonjour, je suis sincèrement désolé, la partie admin est maintenant accessible, avec les logs transmis sur la fiche descriptive</span>
         <span class="absolute top-0 bottom-0 right-0 px-4 py-3">
