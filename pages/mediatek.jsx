@@ -18,9 +18,9 @@ function mediatek() {
         </div>
       </div>
 
-      <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
-        <strong class="font-bold">Précision : </strong>
-        <span class="block sm:inline">Je suis vraiment désolé, mais je rencontre des grosses difficultés avec le site azure et la création de VM (et donc keycloak et la partie /admin) car j&apos;ai une nouvelle fois des frais trop importants, je fais tout mon possible pour agir au plus vite</span>
+      <div class="bg-red-100 border border-red-400 text-green-500 px-4 py-3 rounded relative" role="alert">
+        <strong class="font-bold">ENFIN : </strong>
+        <span class="block sm:inline">Bonjour, je suis sincèrement désolé, la partie admin est maintenant accessible, avec les logs transmis sur la fiche descriptive</span>
         <span class="absolute top-0 bottom-0 right-0 px-4 py-3">
         </span>
       </div>
