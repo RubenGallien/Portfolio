@@ -115,14 +115,8 @@ function mediatekDoc() {
           </p>
           <p className='text-gray-600 py-2 flex'>
             <AiOutlineArrowRight className='pr-1' />
-            <a>
+            <a href='https://mediatekdocuments.online/rest_mediatekdocuments/documentation%20technique/'>
               Documentation technique 
-            </a>
-          </p>
-          <p className='text-gray-600 py-2 flex'>
-            <AiOutlineArrowRight className='pr-1' />
-            <a>
-              Documentation utilisateur (lien youtube)
             </a>
           </p>
         </div>
