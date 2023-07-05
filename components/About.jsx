@@ -17,10 +17,10 @@ const About = () => {
           J&apos;ai obtenu un bac général ES en 2018 avant de me diriger vers une licence de droit. Très vite, j&apos;ai réalisé que ce n&apos;était pas la voie qui me correspondait. Après plusieurs tentatives de formations, le premier confinement a été pour moi un moment crucial où j&apos;ai pris conscience de mon appétence pour la programmation. J&apos;ai pu mettre à profit ces quelques mois pour affiner ce projet en développant mes compétences
           </p>
           <p className=" py-2 text-gray-600">
-            Je termine actuellement mon BTS SIO option SLAM. Cette formation représente pour moi une réelle opportunité dans la construction de mon projet professionnelle. 
+            Je viens de terminer mon BTS SIO option SLAM.
           </p>
           <p className=" py-2 text-gray-600">
-          Je souhaiterai par la suite intégrer une licence professionnelle tout en menant des missions en auto-entrepreneur afin de cumuler compétences et expériences.
+          Je souhaiterai par la suite intégrer une 3ème année de bachelor.
           </p>
           <p className=" py-4 text-gray-600">
             Vous pouvez regarder mes réalisations professionnelles
