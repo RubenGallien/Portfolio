@@ -15,10 +15,10 @@ const Main = () => {
             Bonjour, je suis <span className=" text-[#5651e5]">Ruben</span>
           </h1>
           <h1 className=" py-4 text-gray-700">
-            Apprenti développeur en BTS SIO Option SLAM
+            Apprenti développeur en Bachelor
           </h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            Elève en BTS SIO, j&apos;éspère devenir un jour un 
+            Diplomé d&apos;un BTS SIO, j&apos;éspère devenir un jour un 
             developpeur confirmé 😄 . Vous découvrirez sur ce site, mon
             parcours d&apos;apprentissage et mes réalisations professionnelles.
           </p>
