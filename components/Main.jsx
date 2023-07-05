@@ -18,7 +18,7 @@ const Main = () => {
             Apprenti développeur en Bachelor
           </h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            Diplomé d&apos;un BTS SIO, j&apos;éspère devenir un jour un 
+            Diplômé d&apos;un BTS SIO, j&apos;éspère devenir un jour un 
             developpeur confirmé 😄 . Vous découvrirez sur ce site, mon
             parcours d&apos;apprentissage et mes réalisations professionnelles.
           </p>
